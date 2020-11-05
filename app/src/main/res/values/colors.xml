@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="top_bar">#000000</color>
+    <color name="line_color">#F0F0F0</color>
+    <color name="main_color">#70A7DF</color>
+    <color name="text_main">#333333</color>
+    <color name="text_sub">#666666</color>
+    <color name="text_gray">#999999</color>
+    <color name="text_ccc">#cccccc</color>
+    <color name="activity_bg">#f7f7f7</color>
+    <color name="text_blue">#70A7DF</color>
+    <!-- 透明度 -->
+    <color name="transparent">#00000000</color>
+    <color name="transparent25">#3f000000</color>
+    <!--    按钮颜色-->
+    <color name="btn_pressed">#CCCCCC</color>
+    <color name="btn_start">#FF0000</color>
+    <color name="btn_end">#FF9999</color>
+    <color name="btn_red">#E71F19</color>
+</resources>

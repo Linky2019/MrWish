@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- mdpi -->
+    <dimen name="dp4">2.2dp</dimen>
+    <dimen name="dp10">5.6dp</dimen>
+    <dimen name="dp12">6.7dp</dimen>
+    <dimen name="dp24">13.3dp</dimen>
+    <dimen name="dp40">22.2dp</dimen>
+    <dimen name="dp70">38.9dp</dimen>
+    <dimen name="dp290">161.1dp</dimen>
+
+
+</resources>

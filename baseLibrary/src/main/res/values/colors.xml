@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="global_black">#ff000000</color>
+    <color name="de_transparent">#00000000</color>
+    <color name="dove_java">#23C4B2</color>
+    <color name="burnt_sienna">#ED6D52</color>
+    <color name="text_line_color">#dfdfdd</color>
+    <color name="text_black_color">#333333</color>
+    <color name="text_tips_color">#666666</color>
+    <color name="mine_head_color">#cccccc</color>
+    <color name="text_color">#353535</color>
+
+    <color name="gallery">#EFEFEF</color>
+    <color name="line_setting">#ffd2d2d2</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="red">#fe5c5c</color>
+    <color name="black">#3e3a39</color>
+    <color name="gray">#ababab</color>
+
+    <color name="blue">#3b93e9</color>
+    <!-- 透明度 -->
+    <color name="transparent">#00000000</color>
+    <color name="transparent25">#3f000000</color>
+    <color name="transparent50">#e0000000</color>
+    <color name="line">#e5e5e5</color>
+
+    <color name="text_gray1">#777777</color>
+    <color name="text_gray2">#767676</color>
+    <color name="text_blue1">#1173CB</color>
+    <color name="text_blue2">#1173CA</color>
+
+    <!--蒙版-->
+    <color name="colorMask">#66000000</color>
+
+    <color name="main_theme_color">#0195ff</color>
+
+    <!--黄色色标签/提示-->
+    <color name="colorLabelYellow">#FFAE20</color>
+    <!--黄色色标签/提示高亮-->
+    <color name="colorLabelYellowActive">#FFCD35</color>
+    <color name="colorRed">#FF3333</color>
+    <color name="send_gold">#d3d3d3</color>
+    <color name="dialog_text">#6F6F6F</color>
+    <color name="all_search">#f59da9</color>
+    <color name="text_gray_color">#A8A8A8</color>
+    <color name="top_type_off">#000</color>
+
+    <color name="push_hbll_off">#FF7717</color>
+</resources>

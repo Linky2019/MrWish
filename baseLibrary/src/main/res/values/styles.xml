@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 防止欢迎页白屏或者黑屏，设置图片 -->
+    <!--<style name="SplashTheme" parent="MyTheme">
+        <item name="android:windowBackground">@drawable/splash_bg</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="windowNoTitle">true</item>
+        &lt;!&ndash;<item name="android:windowIsTranslucent">false</item>&ndash;&gt;
+        &lt;!&ndash;<item name="android:windowDisablePreview">true</item>&ndash;&gt;
+    </style>-->
+
+    <style name="WinDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+
+    <!-- 以窗口的形式打开Activity -->
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!--窗口背景色-->
+        <item name="android:windowFrame">@null</item>
+        <!--Dialog的windowFrame框为无-->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 窗口是否半透明——是（与第一条配合使用） -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <!-- 这个不设置的话，可能会出现边框黑线 -->
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <!-- 窗口弹出效果 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 是否允许背景模糊 -->
+    </style>
+
+    <style name="myProgressBarStyle"  >
+        　　<item name="android:indeterminateDrawable">@drawable/rotate_draw</item>
+        　　<item name="android:minWidth">@dimen/dp70</item>
+        　　<item name="android:maxWidth">@dimen/dp70</item>
+        　　<item name="android:minHeight">@dimen/dp70</item>
+        　　<item name="android:maxHeight">@dimen/dp70</item>
+    </style>
+    <!-- 以窗口的形式打开Activity -->
+    <style name="myLoading" parent="@android:style/Theme.Dialog">
+    <item name="android:windowBackground">@android:color/transparent</item>
+    <!--窗口背景色-->
+    <item name="android:windowFrame">@null</item>
+    <!--Dialog的windowFrame框为无-->
+    <item name="android:windowIsFloating">true</item>
+    <!-- 是否浮现在activity之上 -->
+    <item name="android:windowIsTranslucent">false</item>
+    <!-- 窗口是否半透明——是（与第一条配合使用） -->
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <!-- 这个不设置的话，可能会出现边框黑线 -->
+    <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+    <!-- 窗口弹出效果 -->
+    <item name="android:backgroundDimEnabled">true</item>
+    <!-- 是否允许背景模糊 -->
+    </style>
+</resources>

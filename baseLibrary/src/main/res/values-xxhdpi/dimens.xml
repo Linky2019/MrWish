@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- xxhdpi -->
+    <dimen name="dp4">1.3dp</dimen>
+    <dimen name="dp10">3.3dp</dimen>
+    <dimen name="dp12">4dp</dimen>
+    <dimen name="dp24">8dp</dimen>
+    <dimen name="dp40">13.3dp</dimen>
+    <dimen name="dp70">23.3dp</dimen>
+    <dimen name="dp290">96.7dp</dimen>
+
+</resources>
