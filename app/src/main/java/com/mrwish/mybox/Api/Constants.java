@@ -108,6 +108,7 @@ public class Constants {
     public static String HOST_URL = "http://192.168.3.5:8081/springcloud";
     public static int SQ_PIC_SIZE = 1000;//上传照片大小 1000KB
 
+
     /**
      * 主机地址
      */
